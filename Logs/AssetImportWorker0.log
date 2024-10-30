@@ -3116,3 +3116,12 @@ Start importing Assets/Phase-1/Vitals/Vitals.unity using Guid(7127c73c0183e49f59
  -> (artifact id: '0980faef489bed020aaad0f94effa18f') in 0.000444 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 278.493729 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(516b80cf831e945919a45ef6b9abda31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(516b80cf831e945919a45ef6b9abda31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3ea514d8997bf26a820997cb0651028f') in 0.031462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
